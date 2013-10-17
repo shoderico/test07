@@ -12,8 +12,7 @@ QML_IMPORT_PATH =
 # MOBILITY +=
 
 # The .cpp file which was generated for your project. Feel free to hack it.
-SOURCES += main.cpp \
-    test.cpp
+SOURCES += main.cpp
 
 # Installation path
 # target.path =
